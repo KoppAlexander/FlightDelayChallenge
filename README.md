@@ -3,7 +3,8 @@
 ## Flight Prediction Test on Airport Data from Tunesian Airline
 
 Based on several machine learning classifier this project tries to predict delays of individual airplanes.
-Data from here: https://zindi.africa/competitions/flight-delay-prediction-challenge
+
+Data from here: https://zindi.africa/competitions/flight-delay-prediction-challenge (last access Aug 9th, 2024)
 
 ### Set up the Presentation
 
